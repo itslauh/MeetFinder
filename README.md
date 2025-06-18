@@ -7,6 +7,8 @@ MeetFinder is a full-stack application that helps groups of friends find the opt
 
 ---
 
+
+# AI generated tutorial for rust, as i couldn't find one that wasnt paywalled :(
 ## Backend: Axum in Rust
 
 Axum is an ergonomic and modular async web framework that leverages Rust's type safety and performance. It integrates seamlessly with the Tokio runtime and Tower ecosystem.
