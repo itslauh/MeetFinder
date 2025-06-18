@@ -1,9 +1,5 @@
-# MeetFinder
+# FriendMesh
 > Flutter / Axum / PostgreSQL application to find the time to meet with friends.
-
-# MeetFinder
-
-> A Flutter / Axum / PostgreSQL application to find the best time to meet with friends.
 
 ## Overview
 
